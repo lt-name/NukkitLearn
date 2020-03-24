@@ -75,6 +75,14 @@ Nukkit is under improvement yet, we welcome contributions.
 
 同时，转发本教程应当附上GitHub原地址，不得任意转发和搬运，以及商业使用。
 本教程不涉及语法，只涉及Nukkit的各种库的解释以便于开发
+
+基础推荐学习的地方
+
+- [菜鸟教程](https://www.runoob.com/java/java-tutorial.html?tdsourcetag=s_pcqq_aiomsg)
+- [w3cschool](https://www.w3cschool.cn/java/java-tutorial.html)
+- [并发](https://blog.csdn.net/likun557/article/details/100148245)
+- [网络](https://www.cnblogs.com/cainiao-chuanqi/p/11338202.html#autoid-3-2-0)
+
 您所需要掌握的最基本的Java基础体系
 ```
   --基础部分
@@ -154,6 +162,7 @@ QQ群: 931210534
    
    - [使用DSL编写配置文件](章外篇/章外篇之四-使用DSL编写您的静态配置文件.md)
 
+   - [常用工具](章外篇/索引-常用工具的网页索引.md)
 #### 目录
 - [第一章 基础准备](第一章/1-0_前言.md)
   - [X] [如何搭建开发环境](第一章/1-1_如何搭建环境.md)
@@ -173,8 +182,18 @@ QQ群: 931210534
   - [ ] [各种工具类的介绍](第二章/2-6_各种工具类的介绍.md)
   - [X] [如何发送数据包](第二章/2-7_如何发送数据包.md)
 - 第三部分 nukkit的UI操作
-- 第四部分 nukkit相关实例
-- 第五部分 nukkit原理剖析
+- 第四部分 nukkit实用操作
+  - [ ] 粒子
+  - [ ] 药水
+  - [ ] 坐标计算
+  - [ ] AI寻路计算
+  - [ ] 加自定义块自定义实体区块生成
+  - [ ] 皮革染色
+  - [ ] NBT的使用方式
+  - [ ] 客户端的联动
+  - [ ] 自定义数据包
+- 第五部分 nukkit相关实例
+- 第六部分 nukkit原理剖析
 
 
 #### 专栏状况
